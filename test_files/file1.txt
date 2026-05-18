@@ -1,0 +1,4 @@
+this is a test file for the string matching project.
+we are looking for a virus or malware signature.
+some more text here, maybe another virus appears.
+testing horspool algorithm.

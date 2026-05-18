@@ -1,0 +1,5 @@
+some large amount of data here...
+could contain anything.
+virus might be hidden.
+malware could be present.
+trojan is a possibility.
